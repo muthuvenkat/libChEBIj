@@ -1,0 +1,7 @@
+language: java
+branches: 
+only:
+- develop
+cache:
+  directories:
+  - "$HOME/.m2"
